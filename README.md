@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6a3093,100:a44a3f&height=200&section=header&text=Shreyash%20Gadkar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20Scalable%20Digital%20Solutions&descAlignY=55&descSize=18" />
 
-<a href="www.linkedin.com/in/shreyash-gadkar">
+<a href="https://www.linkedin.com/in/shreyash-gadkar">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
@@ -164,14 +164,13 @@ A brief description of what this project does and the problem it solves.
 ## 📫 Connect with me
 
 <div align="center">
-
-<a href="www.linkedin.com/in/shreyash-gadkar">
+<a href="https://www.linkedin.com/in/shreyash-gadkar">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/Shreyash-gadkar">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="shreyashgadkar0712@gmail.com">
+<a href="mailto:shreyashgadkar0712@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
